@@ -60,13 +60,13 @@ A curated list of popular scientific papers in relation to omics. Some of topics
 
 - **Spatial transcriptomics at subspot resolution with bayesspace.** Edward Zhao, Matthew R. Stone, Xing Ren, Jamie Guenthoer, Kimberly S. Smythe, Thomas Pulliam, Stephen R. Williams, Cedric R. Uytingco, Sarah E. B. Taylor, Paul Nghiem, Jason H. Bielas & Raphael Gottardo. **Nature Biotechnology**. [[Link]](https://www.nature.com/articles/s41587-021-00935-2)
 
+- **Leveraging information in spatial transcriptomics to predict super-resolution gene expression from histology images in tumors** Minxing Pang, Kenong Su,  Mingyao Li. **bioRxiv**. [[Link]](https://www.biorxiv.org/content/10.1101/2021.11.28.470212v1)
+
 ### 2020 or older
 
 - **Integrating spatial gene expression and breast tumour morphology via deep learning..** Bryan He, Ludvig Bergenstråhle, Linnea Stenbeck, Abubakar Abid, Alma Andersson, Åke Borg, Jonas Maaskola, Joakim Lundeberg, James Zou. **Nature Biomedical Engineering**. [[Link]](https://www.nature.com/articles/s41551-020-0578-x)
 
 - **Deep learning: new computational modelling techniques for genomics** Gökcen Eraslan, Žiga Avsec, Julien Gagneur & Fabian J. Theis . **Naure**. [[Link]](https://www.nature.com/articles/s41576-019-0122-6)
-### 2019
-### 2018
 
 ## Contributing
 
