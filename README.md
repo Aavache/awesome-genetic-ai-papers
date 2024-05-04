@@ -1,15 +1,11 @@
-# Awesome AI Best Papers
+# Awesome AI Best Papers | 🦠 + 🤖 + 📄
 
-A curated list of popular papers in the gene. 
-
-## Contributing
-
-Please feel free to [pull requests](https://github.com/Aavache/awesome-genetic-ai-papers/pulls) to add papers.
+A curated list of popular scientific papers in relation to omics. Some of topics could be genome, spatial transcriptomics, proteomics and more, where the main approaches are based on machine learning (AI) techniques.
 
 ## Contents
 
 ### 2024
-- **Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression.** Chongyue Zhao, Zhongli Xu, Xinjun Wang, Shiyue Tao, William A MacDonald, Kun He, Amanda C Poholek, Kong Chen, Heng Huang, Wei Chen. Briefing in Bioinformatics. [[Link]](https://academic.oup.com/bib/article/25/2/bbae052/7618072).
+- **Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression.** Chongyue Zhao, Zhongli Xu, Xinjun Wang, Shiyue Tao, William A MacDonald, Kun He, Amanda C Poholek, Kong Chen, Heng Huang, Wei Chen. **Briefing in Bioinformatics**. [[Link]](https://academic.oup.com/bib/article/25/2/bbae052/7618072).
 - **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** Hongzhi Wen, Wenzhuo Tang, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang. ICLR. [[Link]](https://openreview.net/forum?id=BKXvPDekud)
 ### 2023
 ### 2022
@@ -21,6 +17,11 @@ Please feel free to [pull requests](https://github.com/Aavache/awesome-genetic-a
 - **Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.** Andre Cianflone,\* Yulan Feng,\* Jad Kabbara* and Jackie Chi Kit Cheung. (* equal contribution) (**Best Long Paper**) [[PDF]](https://www.cs.mcgill.ca/~jkabba/acl2018paper.pdf)
 - **Know What You Don’t Know: Unanswerable Questions for SQuAD.** Pranav Rajpurkar, Robin Jia and Percy Liang (**Best Short Paper**) [[PDF]](http://stanford.edu/~robinjia/pdf/acl2018-squad.pdf)
 - **‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.** Olivia Winn and Smaranda Muresan (**Best Short Paper**) [[PDF]](http://aclweb.org/anthology/P18-2125)
+
+## Contributing
+
+Please feel free to [pull requests](https://github.com/Aavache/awesome-genetic-ai-papers/pulls) to add papers.
+
 
 ## License
 
