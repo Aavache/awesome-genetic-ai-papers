@@ -68,6 +68,12 @@ A curated list of popular scientific papers in relation to omics. Some of topics
 
 - **Deep learning: new computational modelling techniques for genomics** Gökcen Eraslan, Žiga Avsec, Julien Gagneur & Fabian J. Theis . **Naure**. [[Link]](https://www.nature.com/articles/s41576-019-0122-6)
 
+- **A primer on deep learning in genomics** James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telenti. **Nature genetics**. [[Link]](https://www.nature.com/articles/s41588-018-0295-5)
+
+- **Approximate Bayesian computation with deep learning supports a third archaic introgression in Asia and Oceania** Mayukh Mondal, Jaume Bertranpetit & Oscar Lao. **Nature communications**. [[Link]](https://www.nature.com/articles/s41467-018-08089-7)
+
+- **Machine learning applications in genetics and genomics** Maxwell W. Libbrecht & William Stafford Noble . **Nature genetics**. [[Link]](https://www.nature.com/articles/nrg3920)
+
 ## Contributing
 
 Please feel free to [pull requests](https://github.com/Aavache/awesome-genetic-ai-papers/pulls) to add papers.
