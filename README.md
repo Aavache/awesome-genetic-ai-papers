@@ -1,4 +1,4 @@
-# Awesome AI Best Papers | 🦠 + 🤖 + 📄
+# Awesome Genomic AI Papers 🦠 + 🤖 + 📄
 
 A curated list of popular scientific papers in relation to omics. Some of topics could be genome, spatial transcriptomics, proteomics and more, where the main approaches are based on machine learning (AI) techniques.
 
@@ -6,17 +6,40 @@ A curated list of popular scientific papers in relation to omics. Some of topics
 
 ### 2024
 - **Innovative super-resolution in spatial transcriptomics: a transformer model exploiting histology images and spatial gene expression.** Chongyue Zhao, Zhongli Xu, Xinjun Wang, Shiyue Tao, William A MacDonald, Kun He, Amanda C Poholek, Kong Chen, Heng Huang, Wei Chen. **Briefing in Bioinformatics**. [[Link]](https://academic.oup.com/bib/article/25/2/bbae052/7618072).
-- **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** Hongzhi Wen, Wenzhuo Tang, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang. ICLR. [[Link]](https://openreview.net/forum?id=BKXvPDekud)
+
+- **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** Hongzhi Wen, Wenzhuo Tang, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang. **ICLR**. [[Link]](https://openreview.net/forum?id=BKXvPDekud)
+
+- **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.** Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu. **ICLR**. [[Link]](https://arxiv.org/abs/2306.15006)
+
+- **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.** Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu. **ICLR**. [[Link]](https://arxiv.org/abs/2306.15006)
+
+- **Spatially resolved gene expression prediction from h&e histology images via bi-modal contrastive learning.** Ronald Xie, Kuan Pang, Sai W. Chung, Catia T. Perciani, Sonya A. MacParland, Bo Wang, Gary D. Bader. **Advances in Neural Information Processing Systems**. [[Link]](https://arxiv.org/abs/2306.01859)
+
 ### 2023
+- **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution.** Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, Stefano Ermon, Stephen A. Baccus, Chris Ré. **NeurIPS** (Spotlight). [[Link]](https://arxiv.org/abs/2306.15794)
+
 ### 2022
+
+- **Spatially aware dimension reduction for spatial transcriptomics.** Chang Xu, Xiyun Jin, Songren Wei, Pingping Wang, Meng Luo, Zhaochun Xu, Wenyi Yang, Yideng Cai, Lixing Xiao, Xiaoyu Lin, Hongxin Liu, Rui Cheng, Fenglan Pang, Rui Chen, Xi Su, Ying Hu, Guohua Wang, Qinghua Jiang. **Nucleic Acids Res**. [[Link]](https://www.nature.com/articles/s41467-022-34879-1)
+
+- **Deepst: identifying spatial domains in spatial transcriptomics by deep learning** Shang L, Zhou X. **Nature Communications**. [[Link]](https://www.nature.com/articles/s41467-022-34879-1)
+J
+- **Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto- encoder** Dong K, Zhang S. **Nature Communications**. [[Link]](https://www.nature.com/articles/s41467-022-29439-6)
+
 ### 2021
+
+
+- **DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome.** Yanrong Ji, Zhihan Zhou, Han Liu, Ramana V Davuluri. **Bioinformatics**. [[Link]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680)
+
+- **SPOTlight: seeded NMF regression to deconvolute spatial transcriptomics spots with single-cell transcriptomes.** Marc Elosua-Bayes, Paula Nieto, Elisabetta Mereu, Ivo Gut, Holger Heyn. **Nuclei Acid Res**. [[Link]](https://pubmed.ncbi.nlm.nih.gov/33544846/)
+
+- **Spagcn: integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network.** Jian Hu, Xiangjie Li, Kyle Coleman, Amelia Schroeder, Nan Ma, David J Irwin, Edward B Lee, Russell T Shinohara, Mingyao Li. **Nature**. [[Link]](https://pubmed.ncbi.nlm.nih.gov/34711970/)
+
+- **Spatial transcriptomics at subspot resolution with bayesspace.** Edward Zhao, Matthew R. Stone, Xing Ren, Jamie Guenthoer, Kimberly S. Smythe, Thomas Pulliam, Stephen R. Williams, Cedric R. Uytingco, Sarah E. B. Taylor, Paul Nghiem, Jason H. Bielas & Raphael Gottardo. **Nature Biotechnology**. [[Link]](https://www.nature.com/articles/s41587-021-00935-2)
+
 ### 2020
 ### 2019
 ### 2018
-- **Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information.** Sudha Rao and Hal Daumé III. (**Best Long Paper**) [[PDF]](http://aclweb.org/anthology/P18-1255)
-- **Let’s do it “again”: A First Computational Approach to Detecting Adverbial Presupposition Triggers.** Andre Cianflone,\* Yulan Feng,\* Jad Kabbara* and Jackie Chi Kit Cheung. (* equal contribution) (**Best Long Paper**) [[PDF]](https://www.cs.mcgill.ca/~jkabba/acl2018paper.pdf)
-- **Know What You Don’t Know: Unanswerable Questions for SQuAD.** Pranav Rajpurkar, Robin Jia and Percy Liang (**Best Short Paper**) [[PDF]](http://stanford.edu/~robinjia/pdf/acl2018-squad.pdf)
-- **‘Lighter’ Can Still Be Dark: Modeling Comparative Color Descriptions.** Olivia Winn and Smaranda Muresan (**Best Short Paper**) [[PDF]](http://aclweb.org/anthology/P18-2125)
 
 ## Contributing
 
