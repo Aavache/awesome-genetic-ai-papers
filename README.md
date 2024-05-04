@@ -9,22 +9,32 @@ A curated list of popular scientific papers in relation to omics. Some of topics
 
 - **CellPLM: Pre-training of Cell Language Model Beyond Single Cells.** Hongzhi Wen, Wenzhuo Tang, Xinnan Dai, Jiayuan Ding, Wei Jin, Yuying Xie, Jiliang Tang. **ICLR**. [[Link]](https://openreview.net/forum?id=BKXvPDekud)
 
-- **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.** Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu. **ICLR**. [[Link]](https://arxiv.org/abs/2306.15006)
+- **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.** Brendan F. Miller, Feiyang Huang, Lyla Atta, Arpan Sahoo & Jean Fan. **ICLR**. [[Link]](https://arxiv.org/abs/2306.15006)
 
-- **DNABERT-2: Efficient Foundation Model and Benchmark For Multi-Species Genome.** Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu. **ICLR**. [[Link]](https://arxiv.org/abs/2306.15006)
+- **Reference-free cell type deconvo- lution of multi-cellular pixel-resolution spatially resolved tran- scriptomics data** Zhihan Zhou, Yanrong Ji, Weijian Li, Pratik Dutta, Ramana Davuluri, Han Liu. **Nature communications**. [[Link]](https://www.nature.com/articles/s41467-022-30033-z)
 
 - **Spatially resolved gene expression prediction from h&e histology images via bi-modal contrastive learning.** Ronald Xie, Kuan Pang, Sai W. Chung, Catia T. Perciani, Sonya A. MacParland, Bo Wang, Gary D. Bader. **Advances in Neural Information Processing Systems**. [[Link]](https://arxiv.org/abs/2306.01859)
 
+- **Cell clustering for spatial transcriptomics data with graph neural network** Jiachen Li, Siheng Chen, Xiaoyong Pan, Ye Yuan & Hong-Bin Shen . **Nature communications**. [[Link]](https://www.nature.com/articles/s43588-022-00266-5)
+
+- **Inferring super-resolution tissue architecture by integrating spatial transcriptomics with histology** Daiwei Zhang, Amelia Schroeder, Hanying Yan, Haochen Yang, Jian Hu, Michelle Y. Y. Lee, Kyung S. Cho, Katalin Susztak, George X. Xu, Michael D. Feldman, Edward B. Lee, Emma E. Furth, Linghua Wang & Mingyao Li . **Nature Biotechnology**. [[Link]](https://www.nature.com/articles/s41587-023-02019-9)
+
+- **Transformer with convolution and graph-node co-embedding: an accurate and interpretable vision backbone for predicting gene expressions from local histopatho- logical image** Xiao Xiao, Yan Kong, Ronghan Li, Zuoheng Wang, Hui Lu. **Medical Image Analysis**. [[Link]](https://www.sciencedirect.com/science/article/pii/S1361841523003006)
+
 ### 2023
 - **HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution.** Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, Stefano Ermon, Stephen A. Baccus, Chris Ré. **NeurIPS** (Spotlight). [[Link]](https://arxiv.org/abs/2306.15794)
+
+- **Deeptrasynergy: drug com- binations using multimodal deep learning with transformers.** Fatemeh Rafiei, Hojjat Zeraati, Karim Abbasi, Jahan B Ghasemi, Mahboubeh Parsaeian, Ali Masoudi-Nejad. **Bioinformatics**. [[Link]](https://academic.oup.com/bioinformatics/article/39/8/btad438/7226508)
 
 ### 2022
 
 - **Spatially aware dimension reduction for spatial transcriptomics.** Chang Xu, Xiyun Jin, Songren Wei, Pingping Wang, Meng Luo, Zhaochun Xu, Wenyi Yang, Yideng Cai, Lixing Xiao, Xiaoyu Lin, Hongxin Liu, Rui Cheng, Fenglan Pang, Rui Chen, Xi Su, Ying Hu, Guohua Wang, Qinghua Jiang. **Nucleic Acids Res**. [[Link]](https://www.nature.com/articles/s41467-022-34879-1)
 
 - **Deepst: identifying spatial domains in spatial transcriptomics by deep learning** Shang L, Zhou X. **Nature Communications**. [[Link]](https://www.nature.com/articles/s41467-022-34879-1)
-J
+
 - **Deciphering spatial domains from spatially resolved transcriptomics with an adaptive graph attention auto- encoder** Dong K, Zhang S. **Nature Communications**. [[Link]](https://www.nature.com/articles/s41467-022-29439-6)
+
+- **Exemplar Guided Deep Neural Network for Spatial Transcriptomics Analysis of Gene Expression Prediction** Yan Yang, Md Zakir Hossain, Eric A Stone, Shafin Rahman. **WACV**. [[Link]](https://arxiv.org/abs/2210.16721)
 
 ### 2021
 
@@ -38,6 +48,8 @@ J
 - **Spatial transcriptomics at subspot resolution with bayesspace.** Edward Zhao, Matthew R. Stone, Xing Ren, Jamie Guenthoer, Kimberly S. Smythe, Thomas Pulliam, Stephen R. Williams, Cedric R. Uytingco, Sarah E. B. Taylor, Paul Nghiem, Jason H. Bielas & Raphael Gottardo. **Nature Biotechnology**. [[Link]](https://www.nature.com/articles/s41587-021-00935-2)
 
 ### 2020
+
+- **Integrating spatial gene expression and breast tumour morphology via deep learning..** Bryan He, Ludvig Bergenstråhle, Linnea Stenbeck, Abubakar Abid, Alma Andersson, Åke Borg, Jonas Maaskola, Joakim Lundeberg, James Zou. **Nature Biomedical Engineering**. [[Link]](https://www.nature.com/articles/s41551-020-0578-x)
 ### 2019
 ### 2018
 
