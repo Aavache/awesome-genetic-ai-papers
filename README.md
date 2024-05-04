@@ -1,6 +1,6 @@
 # Awesome AI Best Papers
 
-A curated list of popular papers in the gene CV/NLP/ML/AI best papers, inspired by [Best Paper Awards in Computer Science (since 1996)](http://jeffhuang.com/best_paper_awards.html).
+A curated list of popular papers in the gene. 
 
 ## Contributing
 
